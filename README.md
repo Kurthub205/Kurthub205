@@ -12,6 +12,7 @@ ps: In German we call oure dudes/friends an kek, this means he is an Loser or an
 
 <h3> My Discord </h3>
 ---
+
 <a style="padding-left: 100px">[![Discord Presence](https://lanyard.cnrad.dev/api/477847062801547294)](https://discord.com/users/477847062801547294)</a>
 
 
