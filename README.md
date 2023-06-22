@@ -7,10 +7,8 @@ Für alle die nicht wissen was ein kek ist, geh googlen (seh ich aus wie google?
 
 <h2> Englisch: </h2>
 
-Hello I am Kurt 24 Years, und so an kek from the Internet 
-
+Hello I am Kurt 24 Years, und so an kek from the Internet
 For all how didn`t knows was kek means:
-
 In German we call oure dudes/friends an kek, this means he is an Loser or an victim.
 
 
