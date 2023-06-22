@@ -3,6 +3,7 @@ Servus I bim da Kurt 24, und so nen kek
 
 <a style="padding-left: 100px">[![Discord Presence](https://lanyard.cnrad.dev/api/477847062801547294)](https://discord.com/users/477847062801547294)</a>
 
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/EnforceSystems-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/TkGmnK7vCy)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kurthub_205)
@@ -11,10 +12,27 @@ Servus I bim da Kurt 24, und so nen kek
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Kurthub205)
 
 ## ⚒️Projekts in Work:
+<!-- Enforce start-->
+<h2 style="color: rgba(162, 0, 255); position: center; left: 190px" > Enforce Systems </h2>
+
 [![Discord](https://img.shields.io/badge/EnforceSystems-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/TkGmnK7vCy)
-[![Discord](https://img.shields.io/badge/DisCix-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/u7eCnxR4G9)
+
+<a style="padding-left: 20px height: 10px">[![Discord Presence](https://cdn.discordapp.com/attachments/1111640970346369104/1121363299955658792/csm_assets-data-center_7804a618c8.png)](htttps://discord.gg/u7eCnxR4G9)</a>
+
+<!-- Enforce End-->
 
 
+
+<!-- DisCix start-->
+<h2 style="color: rgba(162, 0, 255); position: center; left: 190px" > Enforce Systems </h2>
+
+[![Discord](https://img.shields.io/badge/EnforceSystems-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/TkGmnK7vCy)
+
+
+<a style="padding-left: 20px height: 10px">[![Discord Presence](https://cdn.discordapp.com/attachments/1089153859324231762/1121368095542485012/DisCix_Logo.png)](htttps://discord.gg/u7eCnxR4G9)</a>
+
+
+<!-- DisCix End-->
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -35,6 +53,7 @@ Servus I bim da Kurt 24, und so nen kek
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kurthub205&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Kurthub205&theme=dark&hide_border=false)<br/>
