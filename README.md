@@ -5,10 +5,11 @@ Servus I bim da Kurt 24, und so nen kek aus dem Internet
 Für alle die nicht wissen was ein kek ist, geh googlen (seh ich aus wie google?)
 
 
-<h2> Englisch: </h2>
-
+<h2>Englisch:</h2>
 Hello I am Kurt 24 Years, und so an kek from the Internet
+
 For all how didn`t knows was kek means:
+
 In German we call oure dudes/friends an kek, this means he is an Loser or an victim.
 
 
@@ -33,12 +34,10 @@ In German we call oure dudes/friends an kek, this means he is an Loser or an vic
 <!-- Enforce End-->
 
 
-
 <!-- DisCix start-->
 <h2 style="color: rgba(162, 0, 255); position: center; left: 190px" > Enforce Systems </h2>
 
 [![Discord](https://img.shields.io/badge/DisCix-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/TkGmnK7vCy)
-
 
 <a style="padding-left: 20px height: 10px">[![Discord Presence](https://cdn.discordapp.com/attachments/1089153859324231762/1121368095542485012/DisCix_Logo.png)](htttps://discord.gg/u7eCnxR4G9)</a>
 
