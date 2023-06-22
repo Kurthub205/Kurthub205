@@ -27,7 +27,7 @@ ps: In German we call oure dudes/friends an kek, this means he is an Loser or an
 ---
 
 <!-- Enforce start-->
-<h2 style="color: rgba(162, 0, 255); position: center; left: 190px" > Enforce Systems </h2> <p> Super Administrator </p>
+<h2 style="color: rgba(162, 0, 255); position: center; left: 190px" > Enforce Systems </h2> <p>My Position: Super Administrator </p>
 
 [![Discord](https://img.shields.io/badge/EnforceSystems-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/TkGmnK7vCy)
 
@@ -37,7 +37,7 @@ ps: In German we call oure dudes/friends an kek, this means he is an Loser or an
 
 
 <!-- DisCix start-->
-<h2 style="color: rgba(162, 0, 255); position: center; left: 190px" > Enforce Systems </h2> <p> Owner </p>
+<h2 style="color: rgba(162, 0, 255); position: center; left: 190px" > Enforce Systems </h2> <p>My Position Owner </p>
 
 [![Discord](https://img.shields.io/badge/DisCix-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/TkGmnK7vCy)
 
