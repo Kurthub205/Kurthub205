@@ -37,7 +37,7 @@ ps: In German we call oure dudes/friends an kek, this means he is an Loser or an
 
 
 <!-- DisCix start-->
-<h2 style="color: rgba(162, 0, 255); position: center; left: 190px" > Enforce Systems </h2> <p>My Position Owner </p>
+<h2 style="color: rgba(162, 0, 255); position: center; left: 190px" > Enforce Systems </h2> <p>My Position: Owner </p>
 
 [![Discord](https://img.shields.io/badge/DisCix-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/TkGmnK7vCy)
 
@@ -45,6 +45,16 @@ ps: In German we call oure dudes/friends an kek, this means he is an Loser or an
 
 
 <!-- DisCix End-->
+
+<!-- RV start-->
+<h2 style="color: rgba(162, 0, 255); position: center; left: 190px" > Enforce Systems </h2> <p>My Position: Dev-Leitung/Managment </p>
+
+[![Discord](https://img.shields.io/badge/Redwood-V-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/TkGmnK7vCy)
+
+<a style="padding-left: 20px height: 10px">[![Discord Presence](https://cdn.discordapp.com/attachments/957695025838448644/1104801549571588126/header.png)](htttps://discord.gg/u7eCnxR4G9)</a>
+
+
+<!-- RV End-->
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
