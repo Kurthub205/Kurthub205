@@ -24,7 +24,9 @@ ps: In German we call oure dudes/friends an kek, this means he is an Loser or an
 
 ## ⚒️Projekts in Work:
 
+Here you can Find the Projekts where I am the Owner or other things
 ---
+
 <!-- Enforce start-->
 <h2 style="color: rgba(162, 0, 255); position: center; left: 190px" > Enforce Systems </h2>
 
