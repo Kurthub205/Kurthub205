@@ -10,9 +10,8 @@ Hello I am Kurt 24 Years, und so an kek from the Internet
 
 ps: In German we call oure dudes/friends an kek, this means he is an Loser or an victim.
 
-<h3> My Discord </h3>
+<h2> My Discord </h2>
 
----
 <a style="padding-left: 100px">[![Discord Presence](https://lanyard.cnrad.dev/api/477847062801547294)](https://discord.com/users/477847062801547294)</a>
 
 
@@ -24,6 +23,8 @@ ps: In German we call oure dudes/friends an kek, this means he is an Loser or an
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/Kurthub205)
 
 ## ⚒️Projekts in Work:
+
+---
 <!-- Enforce start-->
 <h2 style="color: rgba(162, 0, 255); position: center; left: 190px" > Enforce Systems </h2>
 
