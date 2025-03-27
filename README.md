@@ -26,7 +26,7 @@ ps: In German we call oure dudes/friends an kek, this means he is an Loser or an
 
 ---
 
-<!-- Enforce start-->
+<!-- Enforce start
 <h2 style="color: rgba(162, 0, 255); position: center; left: 190px" > Enforce Systems </h2> <p>My Position: Super Administrator </p>
 
 [![Discord](https://img.shields.io/badge/EnforceSystems-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/TkGmnK7vCy)
@@ -34,7 +34,7 @@ ps: In German we call oure dudes/friends an kek, this means he is an Loser or an
 <a style="padding-left: 20px height: 10px">[![Discord Presence](https://cdn.discordapp.com/attachments/1111640970346369104/1121363299955658792/csm_assets-data-center_7804a618c8.png)](htttps://discord.gg/u7eCnxR4G9)</a>
 
 <!-- Enforce End-->
-
+-->
 
 <!-- DisCix start-->
 <h2 style="color: rgba(162, 0, 255); position: center; left: 190px" > Enforce Systems </h2> <p>My Position: Owner </p>
@@ -46,7 +46,7 @@ ps: In German we call oure dudes/friends an kek, this means he is an Loser or an
 
 <!-- DisCix End-->
 
-<!-- RV start-->
+<!-- RV start
 <h2 style="color: rgba(162, 0, 255); position: center; left: 190px" > Enforce Systems </h2> <p>My Position: Dev-Leitung/Managment </p>
 
 [![Discord](https://img.shields.io/badge/RedwoodV-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/TkGmnK7vCy)
@@ -55,7 +55,7 @@ ps: In German we call oure dudes/friends an kek, this means he is an Loser or an
 
 
 <!-- RV End-->
-
+-->
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
