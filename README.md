@@ -1,12 +1,12 @@
 # 💫 About Me:
 <h2> German:</h2> 
-Servus I bim da Kurt 24, und so nen kek aus dem Internet
+Servus I bim da Kurt 26, und so nen kek aus dem Internet
 
 Für alle die nicht wissen was ein kek ist, geh googlen (seh ich aus wie google?)
 
 
 <h2>Englisch:</h2>
-Hello I am Kurt 24 Years, und so an kek from the Internet
+Hello I am Kurt 26 Years, und so an kek from the Internet
 
 ps: In German we call oure dudes/friends an kek, this means he is an Loser or an victim.
 
